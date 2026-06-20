@@ -18,7 +18,7 @@ Coming in as an international student, adapting to a new market is one of the mo
 
 ## :floppy_disk: Methodology
 ### 1. Literature Review
-The starting point was an academic literature review completed as part of a Strategic Marketing course at Whitireia and WelTec. The review examined peer-reviewed research on digital marketing and its impact on SME performance, covering concepts like digital value creation, customer engagement, and omnichannel marketing.
+The starting point was an academic literature review completed as part of a Strategic Marketing course. The review examined peer-reviewed research on digital marketing and its impact on SME performance, covering concepts like digital value creation, customer engagement, and omnichannel marketing.
 
 ### 2. Case Study Selection
 While revisiting the literature, I came across a YouTube video by entrepreneur Davie Fogarty documenting his attempt to turn around Spaghetti Head, a small Italian restaurant in Aldgate, Adelaide. The case aligned closely with the themes in the literature, making it a real-world reference point for testing whether the research holds up in practice.
@@ -34,7 +34,7 @@ Throughout the analysis, findings were filtered through the lens of the New Zeal
 Spaghetti Head had quality food and a committed owner. What held the business back was simply that people did not know it existed. The literature confirms this pattern across SMEs: digital marketing expands social presence and reach, and without it, even strong products stay undiscovered. Ash's turnaround began the moment he gave people something to find.
 
 ### 2. Content works when it carries a real story
-The video that changed everything for Spaghetti Head was personal, specific, and emotionally honest. Davie framed it around a small business at risk, a founder experimenting in his kitchen, and a product worth travelling for. The literature identifies this as the engine of customer engagement: constant, reciprocal communication that builds trust and loyalty rather than just broadcasting offers.
+The video that changed everything for Spaghetti Head was personal, specific, and emotionally honest. Davie framed it around a small business at risk, a founder experimenting in his kitchen, and a product worth travelling for. The literature identifies this as the "engine of customer engagemen"t: constant communication that builds trust and loyalty.
 
 ### 3. Digital value creation starts with observation
 The colored pasta idea came from watching what was already resonating on Instagram. That is digital value creation in practice, using consumer signals from digital platforms to shape product and content decisions. Ash adapted a trend to fit what he could actually deliver, which is exactly what resource-constrained SMEs need to do.
